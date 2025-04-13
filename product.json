@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Clicklens PRO",
+        "price": 5000,
+        "image": "images/oculos4.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Clicklens FLEX",
+        "price": 4200,
+        "image": "images/oculos3.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Clicklens LITE",
+        "price": 1000,
+        "image": "images/oculos2.jpeg"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Clicklens EDGE",
+        "price": 2800,
+        "image": "images/oculos1.jpeg"
+    }
+]   
